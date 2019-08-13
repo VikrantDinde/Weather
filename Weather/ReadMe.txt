@@ -1,7 +1,7 @@
 
 1) Keep the project the C folder
 
-2) Keep the attached cityDetails text file inside the weather folder
+2) Keep the attached cityDetails text file inside the weather folder (EG: C:\Weather)
 
 3) Out will be generated in Documents folder date wise.
 
