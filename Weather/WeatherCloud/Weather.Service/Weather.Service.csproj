@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Weather.Automation\Weather.Automation.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.WindowsAzure.ServiceRuntime">
+      <HintPath>..\..\..\GITHUB-SPEND\GEP-SPEND\GEP Spend\Gep.Cumulus.Spend\Privatedll\Microsoft.WindowsAzure.ServiceRuntime.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

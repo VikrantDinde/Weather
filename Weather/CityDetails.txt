@@ -1,0 +1,11 @@
+CityId	CityName
+1	Mumbai
+2	Pune
+3	Nagpur
+4	Thane
+5	Pune
+6	Nashik
+7	Palghar
+8	Aurangabad
+9	Amravati
+10	Jalgaon

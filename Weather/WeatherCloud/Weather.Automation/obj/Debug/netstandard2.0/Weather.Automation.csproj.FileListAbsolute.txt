@@ -1,0 +1,9 @@
+C:\Weather\WeatherCloud\Weather.Automation\bin\Debug\netstandard2.0\Weather.Automation.deps.json
+C:\Weather\WeatherCloud\Weather.Automation\bin\Debug\netstandard2.0\Weather.Automation.dll
+C:\Weather\WeatherCloud\Weather.Automation\bin\Debug\netstandard2.0\Weather.Automation.pdb
+C:\Weather\WeatherCloud\Weather.Automation\obj\Debug\netstandard2.0\Weather.Automation.csprojAssemblyReference.cache
+C:\Weather\WeatherCloud\Weather.Automation\obj\Debug\netstandard2.0\Weather.Automation.csproj.CoreCompileInputs.cache
+C:\Weather\WeatherCloud\Weather.Automation\obj\Debug\netstandard2.0\Weather.Automation.AssemblyInfoInputs.cache
+C:\Weather\WeatherCloud\Weather.Automation\obj\Debug\netstandard2.0\Weather.Automation.AssemblyInfo.cs
+C:\Weather\WeatherCloud\Weather.Automation\obj\Debug\netstandard2.0\Weather.Automation.dll
+C:\Weather\WeatherCloud\Weather.Automation\obj\Debug\netstandard2.0\Weather.Automation.pdb

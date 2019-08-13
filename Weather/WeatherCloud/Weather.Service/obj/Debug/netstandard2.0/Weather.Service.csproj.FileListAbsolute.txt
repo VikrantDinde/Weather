@@ -1,0 +1,13 @@
+C:\Weather\WeatherCloud\Weather.Service\bin\Debug\netstandard2.0\Weather.Service.deps.json
+C:\Weather\WeatherCloud\Weather.Service\bin\Debug\netstandard2.0\Weather.Service.dll
+C:\Weather\WeatherCloud\Weather.Service\bin\Debug\netstandard2.0\Weather.Service.pdb
+C:\Weather\WeatherCloud\Weather.Service\bin\Debug\netstandard2.0\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Weather\WeatherCloud\Weather.Service\obj\Debug\netstandard2.0\Weather.Service.csprojAssemblyReference.cache
+C:\Weather\WeatherCloud\Weather.Service\obj\Debug\netstandard2.0\Weather.Service.csproj.CoreCompileInputs.cache
+C:\Weather\WeatherCloud\Weather.Service\obj\Debug\netstandard2.0\Weather.Service.AssemblyInfoInputs.cache
+C:\Weather\WeatherCloud\Weather.Service\obj\Debug\netstandard2.0\Weather.Service.AssemblyInfo.cs
+C:\Weather\WeatherCloud\Weather.Service\obj\Debug\netstandard2.0\Weather.Service.csproj.CopyComplete
+C:\Weather\WeatherCloud\Weather.Service\obj\Debug\netstandard2.0\Weather.Service.dll
+C:\Weather\WeatherCloud\Weather.Service\obj\Debug\netstandard2.0\Weather.Service.pdb
+C:\Weather\WeatherCloud\Weather.Service\bin\Debug\netstandard2.0\Weather.Automation.dll
+C:\Weather\WeatherCloud\Weather.Service\bin\Debug\netstandard2.0\Weather.Automation.pdb

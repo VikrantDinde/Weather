@@ -1,0 +1,9 @@
+C:\Weather\Weather.Entities\Weather.Entities\bin\Debug\netstandard2.0\Weather.Entities.deps.json
+C:\Weather\Weather.Entities\Weather.Entities\bin\Debug\netstandard2.0\Weather.Entities.dll
+C:\Weather\Weather.Entities\Weather.Entities\bin\Debug\netstandard2.0\Weather.Entities.pdb
+C:\Weather\Weather.Entities\Weather.Entities\obj\Debug\netstandard2.0\Weather.Entities.csprojAssemblyReference.cache
+C:\Weather\Weather.Entities\Weather.Entities\obj\Debug\netstandard2.0\Weather.Entities.csproj.CoreCompileInputs.cache
+C:\Weather\Weather.Entities\Weather.Entities\obj\Debug\netstandard2.0\Weather.Entities.AssemblyInfoInputs.cache
+C:\Weather\Weather.Entities\Weather.Entities\obj\Debug\netstandard2.0\Weather.Entities.AssemblyInfo.cs
+C:\Weather\Weather.Entities\Weather.Entities\obj\Debug\netstandard2.0\Weather.Entities.dll
+C:\Weather\Weather.Entities\Weather.Entities\obj\Debug\netstandard2.0\Weather.Entities.pdb
